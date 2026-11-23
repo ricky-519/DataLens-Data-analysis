@@ -1,0 +1,38 @@
+
+[
+    {
+        "student_id": 101,
+        "name": "Arun",
+        "department": "CSE",
+        "age": 20,
+        "marks": 85
+    },
+    {
+        "student_id": 102,
+        "name": "Priya",
+        "department": "IT",
+        "age": 21,
+        "marks": 92
+    },
+    {
+        "student_id": 103,
+        "name": "Rahul",
+        "department": "ECE",
+        "age": 20,
+        "marks": 78
+    },
+    {
+        "student_id": 104,
+        "name": "Divya",
+        "department": "CSE",
+        "age": 22,
+        "marks": 95
+    },
+    {
+        "student_id": 105,
+        "name": "Karthik",
+        "department": "IT",
+        "age": 21,
+        "marks": 88
+    }
+]
